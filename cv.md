@@ -1,7 +1,9 @@
 ### Akim Sarsembayev
 ***
 :envelope: Qazakstan, Karaganda city
+
 :e-mail: wimpex39@gmail.com
+
 :phone: +77777679339
 
 My experience in web development is small. However, I have a great desire to develop it in order to become a competent specialist.
