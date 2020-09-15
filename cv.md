@@ -6,6 +6,8 @@ E-mail: wimpex39@gmail.com
 
 Phone: +77777679339
 
+Birthday: 1979/02/07
+
 My experience in web development is small. However, I have a great desire to develop it in order to become a competent specialist.
 At the moment, I have just taken the first step in learning programming languages, and this is only the beginning of a long journey.
 I recently took courses to learn HTML and CSS. I also started learning the PYTHON programming language through an online course.
